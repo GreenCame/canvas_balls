@@ -1,0 +1,8 @@
+* { margin:0; padding:0; } /* to remove the top and left whitespace */
+
+html, body { width:100%; height:100%; } /* just to be sure these are full screen*/
+
+canvas { display:block;
+    background-image: linear-gradient(90deg, #000004, #160b39, #420a68, #6a176e, #932667, #ba3655, #dd513a, #f3761b, #fca50a, #f6d746, #f6d746);
+    background-image: linear-gradient(135deg, #ffffe5, #fff8c4, #feeba2, #fed676, #febb4a, #fb9a2c, #ee7919, #d85b0a, #b74304, #8f3204, #8f3204);
+} /* To remove the scrollbars */
